@@ -79,7 +79,7 @@ Perfect for evaluating youth prospects or custom players.
 
 | Player Oracle UI                       | Manual Valuation UI                          |
 |----------------------------------------|----------------------------------------------|
-| ![oracle](images/player_oracle_ui.png) | ![manual](images/manual_scout_ui.png)        |
+| ![oracle](Screenshot 2025-11-28 003332.png) | ![manual]Screenshot 2025-11-28 003426.png)        |
 
 ---
 
