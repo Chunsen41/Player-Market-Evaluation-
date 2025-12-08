@@ -1,6 +1,6 @@
-# ⚽ Football Oracle AI – Player Valuation & Scouting System
+# ⚽ Football (Soccer) Oracle AI – Player Valuation & Scouting System
 
-Football Oracle AI is a machine learning–driven application designed to predict football player market values and support scouting analysis.  
+Football(soccer) Oracle AI is a machine learning–driven application designed to predict football player market values and support scouting analysis.  
 The system uses structured player attributes (age, overall rating, potential, position, league context) to estimate market valuation and includes an interactive Gradio UI for real-time player analysis.
 
 ---
